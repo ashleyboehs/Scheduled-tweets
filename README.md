@@ -42,8 +42,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **OAuth**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Scheduled Tweets**
+
 
 
 <!-- LIVE DEMO -->
@@ -112,7 +112,7 @@ To run the project, execute the following command:
 
 > The app was initially developed before API v2 was released. Therefore users are able to log in to thier user account, however may not be able to see thier scheduled tweet posted on thier account.
 
-- [ ] **[API conversion to Twitter API v2 ]**
+- [ ] **API conversion to Twitter API v2**
 
 
 <!-- CONTRIBUTING -->
