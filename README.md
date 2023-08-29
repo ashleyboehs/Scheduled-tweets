@@ -1,47 +1,147 @@
-Scheduled Tweets
+<!-- PROJECT DESCRIPTION -->
 
-Users can log in to thier Twitter or X account through the application and schedule a tweet for a later time and day.
+# 📖 [Scheduled-tweets] <a name="about-project"></a>
 
-1. Built With
+> Users can log in to their Twitter or X account through the application and schedule a tweet for a later time and day.
 
-Ruby on Rails - Frontend UI & Backend data management.
-Sidekiq - handles background jobs in the redis server.
-Heroku for deployment.
-Twitter API - For interfacing with Twitter.
-Bootstrap for frontend styling.
-postgresql for data storage.
+## 🛠 Built With <a name="built-with"></a>
 
-Build Dependencies 
+<ul>
+    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
+  </ul>
 
-To get a local copy up and running, follow these simple example steps.
+  <ul>
+    <li><a href="https://sidekiq.org/">Sidekiq</a></li>
+  </ul>
 
-Setup and installation
+<ul>
+    <li><a href="https://heroku.com">Heroku</a></li>
+  </ul>
+ <ul>
+    <li><a href="https://sidekiq/">Sidekiq</a></li>
+  </ul>
 
-git clone git@github.com:ashleyboehs/Scheduled-tweets.git
-
-Install dependencies
-
- bundle install
+  <ul>
+    <li><a href="https://developer.twitter.com/en/docs/twitter-api">Twitter API</a></li>
+  </ul>
  
-Run migrations
+  <ul>
+    <li><a href="https://getbootstrap.com">Bootstrap</a></li>
+  </ul>
 
-rails db:create && rails db:migrate
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
 
-Run the app in the development mode
 
-rails start
-Open http://localhost:3000 to view it in the browser.
 
-4. Live link
 
-Link to Live Page
 
-5. Author Section
+<!-- Features -->
 
-👤 Ashley Boehs
+### Key Features <a name="key-features"></a>
 
-Github: ashleyboehs
-LinkedIn: Ashley Boehs
+- **OAuth**
+- **[key_feature_2]**
+- **[key_feature_3]**
 
-Credits
-Chirs Oliver of GoRails
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://google.com)
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+### Prerequisites
+
+In order to run this project you need the following installed locally:
+Ruby,
+Redis, and
+PostgreSQl.
+
+### Setup
+
+Get a Twitter API at: https://developer.twitter.com/en/docs/twitter-api
+
+Clone this repository to your desired folder:
+
+ ```sh
+   git clone https://github.com/ashleyboehs/Scheduled-tweets.git
+   ```
+### Install
+
+Install this project with:
+
+
+```sh
+  cd my-project
+  bundle install
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  rails db:create && rails db:migrate
+  rails start
+```
+
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+
+- GitHub: [@ashleyboehs](https://github.com/ashleyboehs)
+- Twitter: [@AshleyBoehs](https://twitter.com/AshleyBoehs)
+- LinkedIn: [Ashley Boehs](https://linkedin.com/in/ashleyboehs)
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> The app was initially developed before API v2 was released. Therefore users are able to log in to thier user account, however may not be able to see thier scheduled tweet posted on thier account.
+
+- [ ] **[API conversion to Twitter API v2 ]**
+
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ashleyboehs/Scheduled-tweets/issues).
+
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give me a ⭐️!
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to give credit to Chirs Oliver at GoRails. A tutorial can be found at https://gorails.com/start.
+
+
+
+
+
+## 📝 License <a name="license"></a>
+
+This project is open sourced.
