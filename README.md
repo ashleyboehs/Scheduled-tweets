@@ -1,6 +1,6 @@
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Scheduled-tweets] <a name="about-project"></a>
+# 📖 Scheduled-tweets <a name="about-project"></a>
 
 > Users can log in to their Twitter or X account through the application and schedule a tweet for a later time and day.
 
@@ -134,7 +134,6 @@ If you like this project give me a ⭐️!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to give credit to Chirs Oliver at GoRails. A tutorial can be found at https://gorails.com/start.
 
