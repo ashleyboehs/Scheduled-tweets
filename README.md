@@ -50,9 +50,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+> (https://youtu.be/i6gWMh1MZ8E)
 
 
 <!-- GETTING STARTED -->
