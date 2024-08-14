@@ -17,9 +17,7 @@
 <ul>
     <li><a href="https://heroku.com">Heroku</a></li>
   </ul>
- <ul>
-    <li><a href="https://sidekiq/">Sidekiq</a></li>
-  </ul>
+
 
   <ul>
     <li><a href="https://developer.twitter.com/en/docs/twitter-api">Twitter API</a></li>
